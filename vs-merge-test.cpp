@@ -26,6 +26,7 @@ int main()
     if (warm)
     {
         std::cout << "Today is a warm day.\n";
+        std::cout << "This line was added in master.\n";
     }
     else
     {
