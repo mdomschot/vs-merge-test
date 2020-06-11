@@ -14,6 +14,7 @@ int main()
     if (good)
     {
         std::cout << "Today is a good day.\n";
+        std::cout << "This line was added in master.\n";
     }
     else
     {
