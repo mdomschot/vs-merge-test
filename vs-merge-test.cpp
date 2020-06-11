@@ -41,6 +41,7 @@ int main()
     else
     {
         std::cout << "Today is a cold day.\n";
+        std::cout << "This line was added in dotnetcore31.\n";
     }
 
     // Check to see if today is good and warm.
