@@ -13,6 +13,7 @@ int main()
     // Check to see if today is good.
     if (good)
     {
+        // master
         std::cout << "Today is a good day.\n";
         std::cout << "This line was added in master.\n";
     }
