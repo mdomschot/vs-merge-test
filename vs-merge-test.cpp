@@ -25,6 +25,7 @@ int main()
         std::cout << "This line was added in dotnetcore31.\n";
         std::cout << "This line was also added in dotnetcore31.\n";
         std::cout << "This line was also also added in dotnetcore31.\n";
+        std::cout << "Added by another developer while during merge (2) in dotnetcore31.\n";
     }
 
     // Check to see if today is warm.
