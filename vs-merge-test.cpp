@@ -19,6 +19,7 @@ int main()
     else
     {
         std::cout << "Today is a bad day.\n";
+        std::cout << "This line was added in master.\n";
     }
 
     // Check to see if today is warm.
