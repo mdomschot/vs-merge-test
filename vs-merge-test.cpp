@@ -14,6 +14,7 @@ int main()
     if (good)
     {
         // dotnetcore31
+        // dotnetcore31 - async
         std::cout << "Today is a good day.\n";
         std::cout << "This line was added in dotnetcore31.\n";
         std::cout << "This line was also added in dotnetcore31.\n";
