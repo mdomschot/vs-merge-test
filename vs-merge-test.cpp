@@ -13,6 +13,7 @@ int main()
     // Check to see if today is good.
     if (good)
     {
+        // dotnetcore31
         std::cout << "Today is a good day.\n";
         std::cout << "This line was added in dotnetcore31.\n";
         std::cout << "This line was also added in dotnetcore31.\n";
