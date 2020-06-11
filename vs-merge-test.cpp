@@ -33,6 +33,7 @@ int main()
     // Check to see if today is good and warm.
     if (good && warm)
     {
+        // :)
         std::cout << "Woohoo!\n";
     }
     else
