@@ -6,6 +6,35 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    bool good = true;
+    bool warm = true;
+
+    // Check to see if today is good.
+    if (good)
+    {
+        std::cout << "Today is a good day.\n";
+    }
+    else
+    {
+        std::cout << "Today is a bad day.\n";
+    }
+
+    // Check to see if today is warm.
+    if (warm)
+    {
+        std::cout << "Today is a warm day.\n";
+    }
+    else
+    {
+        std::cout << "Today is a cold day.\n";
+    }
+
+    // Check to see if today is good and warm.
+    if (good && warm)
+    {
+        std::cout << "Woohoo!\n";
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
