@@ -35,6 +35,10 @@ int main()
     {
         std::cout << "Woohoo!\n";
     }
+    else
+    {
+        std::cout << "Booooo!\n";
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
